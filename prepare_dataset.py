@@ -36,16 +36,6 @@ OUTPUT_JSON_PATH = METADATA_DIR / "dataset.json"
 # 2. ОПИСАНИЯ И ИНСТРУКЦИИ
 # =========================
 
-# Так как в задании нужен этап description,
-# мы явно задаём описание исходной картинки.
-# Для beans это честно: на изображениях листья фасоли/растения.
-DESCRIPTIONS = [
-    "A close-up photo of a plant leaf.",
-    "A photo of green leaves on a plant.",
-    "An agricultural image showing a bean plant leaf.",
-    "A close-up image of a leaf with natural background.",
-]
-
 # Инструкции для редактирования.
 # Модель будет менять изображение согласно этим промптам.
 EDIT_INSTRUCTIONS = [
