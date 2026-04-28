@@ -95,8 +95,11 @@ stabilityai/sd-turbo
 ---
 
 ## 🚀 Как запустить
+
+```
 pip install -r requirements.txt
 python prepare_dataset.py
+```
 
 ---
 
