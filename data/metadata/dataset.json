@@ -1,0 +1,102 @@
+[
+  {
+    "source_image_id": "source_0001",
+    "edit_prompt": "a close-up photo of a plant leaf on a clean white background",
+    "edited_image_id": "edited_0001"
+  },
+  {
+    "source_image_id": "source_0002",
+    "edit_prompt": "a realistic plant leaf photo with enhanced colors and contrast",
+    "edited_image_id": "edited_0002"
+  },
+  {
+    "source_image_id": "source_0003",
+    "edit_prompt": "a realistic plant leaf photo with enhanced colors and contrast",
+    "edited_image_id": "edited_0003"
+  },
+  {
+    "source_image_id": "source_0004",
+    "edit_prompt": "a bright colorful photo of a green plant leaf in a garden",
+    "edited_image_id": "edited_0004"
+  },
+  {
+    "source_image_id": "source_0005",
+    "edit_prompt": "a bright colorful photo of a green plant leaf in a garden",
+    "edited_image_id": "edited_0005"
+  },
+  {
+    "source_image_id": "source_0006",
+    "edit_prompt": "a realistic photo of a green plant leaf with water droplets",
+    "edited_image_id": "edited_0006"
+  },
+  {
+    "source_image_id": "source_0007",
+    "edit_prompt": "a realistic plant leaf photo with enhanced colors and contrast",
+    "edited_image_id": "edited_0007"
+  },
+  {
+    "source_image_id": "source_0008",
+    "edit_prompt": "a realistic photo of a green plant leaf with water droplets",
+    "edited_image_id": "edited_0008"
+  },
+  {
+    "source_image_id": "source_0009",
+    "edit_prompt": "a bright colorful photo of a green plant leaf in a garden",
+    "edited_image_id": "edited_0009"
+  },
+  {
+    "source_image_id": "source_0010",
+    "edit_prompt": "a close-up photo of a plant leaf on a clean white background",
+    "edited_image_id": "edited_0010"
+  },
+  {
+    "source_image_id": "source_0011",
+    "edit_prompt": "a realistic plant leaf photo with enhanced colors and contrast",
+    "edited_image_id": "edited_0011"
+  },
+  {
+    "source_image_id": "source_0012",
+    "edit_prompt": "a close-up photo of a plant leaf on a clean white background",
+    "edited_image_id": "edited_0012"
+  },
+  {
+    "source_image_id": "source_0013",
+    "edit_prompt": "a realistic photo of a green plant leaf with water droplets",
+    "edited_image_id": "edited_0013"
+  },
+  {
+    "source_image_id": "source_0014",
+    "edit_prompt": "a realistic photo of a green plant leaf with water droplets",
+    "edited_image_id": "edited_0014"
+  },
+  {
+    "source_image_id": "source_0015",
+    "edit_prompt": "a realistic botanical photo of a plant leaf in warm sunlight",
+    "edited_image_id": "edited_0015"
+  },
+  {
+    "source_image_id": "source_0016",
+    "edit_prompt": "a realistic plant leaf photo with enhanced colors and contrast",
+    "edited_image_id": "edited_0016"
+  },
+  {
+    "source_image_id": "source_0017",
+    "edit_prompt": "a realistic plant leaf photo with enhanced colors and contrast",
+    "edited_image_id": "edited_0017"
+  },
+  {
+    "source_image_id": "source_0018",
+    "edit_prompt": "a realistic photo of a green plant leaf with water droplets",
+    "edited_image_id": "edited_0018"
+  },
+  {
+    "source_image_id": "source_0019",
+    "edit_prompt": "a close-up photo of a plant leaf on a clean white background",
+    "edited_image_id": "edited_0019"
+  },
+  {
+    "source_image_id": "source_0020",
+    "edit_prompt": "a realistic plant leaf photo with enhanced colors and contrast",
+    "edited_image_id": "edited_0020"
+  }
+]
