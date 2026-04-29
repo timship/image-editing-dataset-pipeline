@@ -18,16 +18,6 @@ Pipeline автоматически:
 - сохраняет результат и метаданные
 
 ---
-
-## ⚡ Важно
-
-Итоговый датасет в папке `data/` был сгенерирован с использованием модели  
-`diffusers/sdxl-instructpix2pix-768` (из ТЗ) на GPU в Google Colab.
-
-Локальный pipeline (`prepare_dataset.py`) использует облегчённую модель
-и служит для воспроизводимости решения на слабом оборудовании.
-
----
 ## 🧠 Используемые технологии
 
 - Датасет: Hugging Face `beans`
@@ -66,6 +56,16 @@ notebooks/colab_pipeline.ipynb
 diffusers/sdxl-instructpix2pix-768
 ```
 Запуск выполнен в Google Colab с GPU (Tesla T4, ~15GB VRAM)
+
+---
+
+## ⚡ Важно
+
+Итоговый датасет в папке `data/` был сгенерирован с использованием модели  
+`diffusers/sdxl-instructpix2pix-768` (из ТЗ) на GPU в Google Colab.
+
+Локальный pipeline (`prepare_dataset.py`) использует облегчённую модель
+и служит для воспроизводимости решения на слабом оборудовании.
 
 ---
 
