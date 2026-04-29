@@ -107,8 +107,10 @@ data/
   raw/        — исходные изображения
   edited/     — отредактированные изображения
   metadata/   — dataset.json
+  
+notebooks/    — colab_pipeline.ipynb (модель из ТЗ)
 
-prepare_dataset.py
+prepare_dataset.py (облегченная модель, запущенная локально)
 requirements.txt
 README.md
 ```
